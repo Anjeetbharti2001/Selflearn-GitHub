@@ -16,5 +16,7 @@ int b = 5;
 int sum = a + b;
 <br>
 System.out.println("Total of Sum :-" + sum);
+<br>
 }
+<br>
 }
